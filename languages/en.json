@@ -5,4 +5,6 @@
 		"description": "Cookies Banner displays a banner which allows user to accept or reject cookies from tracking applications like Google Analytics or Matomo."
 	},
 	"text": "Text"
+	"reject": "Reject",
+	"accept": "Accept"	
 }
