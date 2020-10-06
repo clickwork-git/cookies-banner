@@ -1,10 +1,8 @@
-Cookies Banner
-
 Cookies Banner blendet ein Banner ein, das es dem Besucher erlaubt, Cookies von Tracking-Anwendungen wie Google Analaytics oder Matomo zu akzeptieren oder abzulehnen.  Das Plugin entspricht den Anforderungen der DSGVO.
 
 Das Plugin verwendet das Skript Cookies EU banner ((https://alex-d.github.io/Cookies-EU-banner/)).
 
-Verwendung
+*Verwendung*
 
 1) Einstellungen des Plugins öffnen.
 
@@ -32,7 +30,7 @@ Wichtig: Den Code ohne <script> am Anfang und </script> am Schluss eingeben.
 
 4) Cookie löschen
 
-Das Cookie kann gelöscht werden mit
+Das Cookie kann gelöscht werden mit folgendem Skript:
 
 <script>
   DeleteCookie;
