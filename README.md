@@ -32,7 +32,7 @@ For example the code of Google Analytis is something like:
 </script>
 ```
 
-Important: Enter the code without `<script>` at the beginning and `</script>`at the end.
+Important: Enter the code without `<script>` at the beginning and `</script>` at the end.
 
 **4) Delete cookie**
 
