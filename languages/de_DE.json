@@ -4,5 +4,7 @@
 		"name": "Cookies Banner",
 		"description": "Cookies Banner blendet ein Banner ein, das es dem Besucher erlaubt, Cookies von Tracking-Anwendungen wie Google Analaytics oder Matomo zu akzeptieren oder abzulehnen."
 	},
-	"text": "Text"
+	"text": "Text",
+	"reject": "Ablehnen",
+	"accept": "Annehmen"	
 }
