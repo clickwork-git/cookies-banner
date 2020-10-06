@@ -51,7 +51,7 @@ class pluginCookiesBanner extends Plugin {
 	  $html .= '<script>'.PHP_EOL;
     $html .= 'new CookiesEuBanner(function () {'.PHP_EOL;
     $html .= $code;
-    $html .= '});'.PHP_EOL;
+    $html .= '}, true);'.PHP_EOL;
 	  $html .= '</script>'.PHP_EOL;
 
 	  return $html;
