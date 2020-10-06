@@ -10,7 +10,7 @@ Usage
 
 **1) Go to the settings of the plugin.**
 
-**2) Fill out the the text in the field "Text".**
+**2) Fill out the field "Text".**
 
 For example: "Accept or reject the use of cookies by Google Analytics for statistical purposes."
 
