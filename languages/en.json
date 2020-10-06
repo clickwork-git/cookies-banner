@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Cookies Banner",
+		"description": "Cookies Banner manage the display of a banner which allows user to accept or reject cookies from tracking services like Google Analytics. It is a GDPR-compliant way to get cookie consent from visitors."
+	},
+	"text": "Text"
+}
