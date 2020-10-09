@@ -2,7 +2,6 @@
 
 class pluginCookiesBanner extends Plugin {
 
-
 	public function init() {
 		$this->dbFields = array(
 			'text'=>'',
