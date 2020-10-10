@@ -34,8 +34,8 @@ class pluginCookiesBanner extends Plugin {
 		$html = '<link rel="stylesheet" href="'.HTML_PATH_PLUGINS.'cookies-banner/css/cookies-eu-banner.default.css">'.PHP_EOL;
 		$html .= '<div id="cookies-eu-banner" style="display: none;">'.PHP_EOL;
 		$html .= nl2br($text).PHP_EOL;
-    		$html .= '<button id="cookies-eu-reject">'.$L->get('Reject').'</button>'.PHP_EOL;
-    		$html .= '<button id="cookies-eu-accept">'.$L->get('Accept').'</button>'.PHP_EOL;
+		$html .= '<button id="cookies-eu-reject">'.$L->get('Reject').'</button>'.PHP_EOL;
+		$html .= '<button id="cookies-eu-accept">'.$L->get('Accept').'</button>'.PHP_EOL;
 		$html .= '</div>'.PHP_EOL;
 
 		return $html;
@@ -49,9 +49,9 @@ class pluginCookiesBanner extends Plugin {
 
 		$html = '<script src="'.HTML_PATH_PLUGINS.'cookies-banner/js/cookies-eu-banner.js"></script>'.PHP_EOL;
 		$html .= '<script>'.PHP_EOL;
-    		$html .= 'new CookiesEuBanner(function () {'.PHP_EOL;
-    		$html .= $code;
-    		$html .= '}, true);'.PHP_EOL;
+		$html .= 'new CookiesEuBanner(function () {'.PHP_EOL;
+		$html .= $code;
+		$html .= '}, true);'.PHP_EOL;
 		$html .= '</script>'.PHP_EOL;
 
 		return $html;
